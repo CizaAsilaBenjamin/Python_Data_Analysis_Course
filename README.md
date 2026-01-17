@@ -5,7 +5,7 @@ The analysis
 To find the most demanded skills for the most popular data roles. I filtered out those positions by which ones were the most popular, and got the top 5 skills for these top 3 roles. this query highligths the most popular job titles and their top skills, showing which skills I should pay attention to depending on the role I am targeting.
 
 View my nootbook with detailed steps here : 
-[2 Skills demand] (2_projectLucasPython\2_Skills_demand.ipynb)
+[2 Skills demand](2_projectLucasPython\2_Skills_demand.ipynb)
 
 ### Visualize Data
 
@@ -36,7 +36,7 @@ plt.show()
 ```
 
 ### Resultat 
-![Visualization of top skills for data Nerd] (2_projectLucasPython\Images\image_skills_demand.png)
+![Visualization of top skills for data Nerd](2_projectLucasPython\Images\image_skills_demand.png)
 
 ### What are the insights ?
 
